@@ -176,6 +176,7 @@
     $ git remove -v 
     $ git remote add <remote-name> <remote-url>
     $ git remote remove <remote-name>
+    $ git remote set-url origin git@github.com:USERNAME/REPOSITORY.git.
 
 -----------------
 ### Clone

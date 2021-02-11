@@ -1,3 +1,12 @@
+[![prestige](https://img.youtube.com/vi/6qiEsXpdiMQ/0.jpg)](https://www.youtube.com/watch?v=6qiEsXpdiMQ)
+# Versiyon Kontrolü
+> Dosyaların kayıt altına alınmış herhangi bir andaki hallerine versiyon diyoruz
+Versiyon kontrolünü, kullandığınız programlama dili, yardımcı programlama kütüphaneleri (framework), dosya tipi veya işletim sisteminden bağımsız bir yaklaşım olarak düşünmelisiniz. Çünkü versiyon kontrolü
+
+- HTML dosyalar için kullanılabileceği gibi, mimari tasarım amaçlı proje dosyaları ve iPhone uygulaması kaynak kodunuz için de kullanılabilir
+# Git
+# Versiyon Kontrolüne Neden İhtiyacımız Var?
+## Uyumlu Ekip Çalışması
 # Git Komutları
 
 ### Init
